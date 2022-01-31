@@ -1,4 +1,6 @@
-# Given the following input files find the amount of time a given resources has been accessed the most in a five minute period.
+/*
+Given the following input files find the amount of time a given resources has been accessed the most in a five minute period.
+*/
 
   val logs1 = Array(
     Array("58523", "user_1", "resource_1"),
